@@ -36,5 +36,8 @@ rag_QA_chatbot/
 ├── loan_knowledge_base.txt     # Text file with applicant records for querying
 ├── requirements.txt            # List of dependencies to install
 ├── train_dataset.csv           # reference data
+├──app_images                   #Folder containing screenshots of the app
+├──README.md
+
 
 ```
