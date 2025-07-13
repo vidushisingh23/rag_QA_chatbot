@@ -6,11 +6,11 @@ This project implements a **Retrieval-Augmented Generation (RAG) chatbot** using
 
 ### Project Context 
 
-- ✅ **Offline-first** design — no API keys or internet required
-- ✅ **Fully local** using Hugging Face transformer models and FAISS
-- ✅ **Lightweight and modular**, designed for secure and low-resource environments
-- ✅ **Streamlit-based UI** for an interactive and user-friendly experience
-- ✅ Ideal for personal, academic, or enterprise-level document Q&A systems
+-  **Offline-first** design — no API keys or internet required
+-  **Fully local** using Hugging Face transformer models and FAISS
+-  **Lightweight and modular**, designed for secure and low-resource environments
+-  **Streamlit-based UI** for an interactive and user-friendly experience
+-  Ideal for personal, academic, or enterprise-level document Q&A systems
 
 ---
 
