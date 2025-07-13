@@ -1,6 +1,6 @@
 # RAG-QA Chatbot (Offline)
 
-This project implements a **Retrieval-Augmented Generation (RAG) chatbot** using Hugging Face models. The chatbot is capable of answering user queries based on uploaded documents (e.g., PDFs, text files) by retrieving the most relevant context and generating natural language answers — all **without using APIs or internet access**.
+This project implements a **Retrieval-Augmented Generation (RAG) chatbot** using Hugging Face models. The chatbot is capable of answering user queries based on uploaded documents (e.g., PDFs, text files) by retrieving the most relevant context and generating natural language answers .
 
 ---
 
