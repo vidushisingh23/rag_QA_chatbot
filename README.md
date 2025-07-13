@@ -26,10 +26,9 @@ This project implements a **Retrieval-Augmented Generation (RAG) chatbot** using
 ---
 
 ##  Project Structure
-
+```
 rag_QA_chatbot/
 │
-
 ├── app.py                      # Streamlit app for the chatbot UI
 ├── chatbot.py                  # Core logic for semantic search + answer generation
 ├── knowledge_base.py           # to convert .csv dataset into text file
@@ -38,4 +37,4 @@ rag_QA_chatbot/
 ├── requirements.txt            # List of dependencies to install
 ├── train_dataset.csv           # reference data
 
-
+```
