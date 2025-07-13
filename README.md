@@ -16,16 +16,16 @@ This project implements a **Retrieval-Augmented Generation (RAG) chatbot** using
 
 ## Features
 
-- 📄 Upload your own documents (PDF/TXT)
-- 🔍 Embedding-based semantic search using `sentence-transformers`
-- 🧠 Local LLM for answer generation
-- 🛡️ Completely offline — No external API required
-- 🔧 Modular Python backend (`chatbot.py`)
-- 🌐 Simple UI using `Streamlit` (`app.py`)
+- Upload your own documents (PDF/TXT)
+- Embedding-based semantic search using `sentence-transformers`
+- Local LLM for answer generation
+- Completely offline — No external API required
+-  Modular Python backend (`chatbot.py`)
+-  Simple UI using `Streamlit` (`app.py`)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 rag_QA_chatbot/
 │
